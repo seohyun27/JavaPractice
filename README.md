@@ -3,7 +3,7 @@ This repository contains Java code submitted as assignments for a second-year, s
 
 
 
-### Contents
+## Contents
 
 #### Pet shop
 - Source code: Animal management system for a pet shop
@@ -16,5 +16,5 @@ This repository contains Java code submitted as assignments for a second-year, s
 
 
 
-### Additional Comments
+## Additional Comments
 This code was written as part of a school assignment and may contain errors.
