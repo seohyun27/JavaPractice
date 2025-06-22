@@ -1,5 +1,5 @@
 # JavaPractice
-This repository contains Java code submitted as assignments for a second-year, second-semester Java class.
+This repository contains Java code submitted as assignments for a 2-2 Java class.
 
 
 
